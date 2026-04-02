@@ -2,9 +2,6 @@
 
 一个面向大学生的学习时间管理 Web 应用，支持每日学习计划、课程表避让、自动排程、番茄钟、考试计时、提醒、统计分析和云端同步。
 
-在线地址：
-[https://study-plan-assistant-li.vercel.app](https://study-plan-assistant-li.vercel.app)
-
 GitHub 仓库：
 [https://github.com/orange-686/study-plan-assistant-web](https://github.com/orange-686/study-plan-assistant-web)
 
